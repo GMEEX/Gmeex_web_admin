@@ -59,7 +59,6 @@
                     </div>
                 </div>
             </div>
-            <div style="background-image: linear-gradient( 135deg, #FD6585 10%, #0D25B9 100%);text-align: center;height:30px;line-height:30px;letter-spacing: 1px;color:#FFF;">看看就行，不要摸（改数据）！购买商用系统请联系QQ：877070886（唯一渠道，谨防被骗）</div>
             <div class="tags-con">
                 <tags-page-opened :pageTagsList="pageTagsList" @getopen="test"></tags-page-opened>
             </div>
